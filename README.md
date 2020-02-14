@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+In the browser window object representation of HTML
+
 2. What is an event?
+
+When something happens to HTML elements (I remember that in out TK it's about "user doing something", but going offline for some no-user reasons is event too)
 
 3. What is an event listener?
 
+a function which executes when event happens
+
 4. Why would we convert a NodeList into an Array?
 
+To be able to use .forEach(), .map() and other methods
+
 5. What is a component?
+
+blocks of reusable code to create parts of web pages
 
 ### Git Set up
 
